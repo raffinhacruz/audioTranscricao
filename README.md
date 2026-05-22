@@ -1,4 +1,4 @@
-Código em Python que gera audio transcrição de qualquer arquivo de áudio, de qualquer duração, separando por participante (diarização)
+Código em Python que gera transcrição de qualquer arquivo de áudio, de qualquer duração, separando por participante (diarização)
 <br><br>
 Dependências:
     pip install openai-whisper resemblyzer scikit-learn numpy
